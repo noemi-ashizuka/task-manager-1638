@@ -1,0 +1,5 @@
+User stories
+- list all the tasks
+- add a task
+- mark a task as done
+- remove a task
